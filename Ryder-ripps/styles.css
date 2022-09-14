@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 96px 64px;
+}
+
+p {
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 24px;
+    font-weight: 700;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+h2 {
+    font-size: 40px;
+    margin-bottom: 56px;
+}
+
+.last {
+    margin-bottom: 56px;
+}
+
+h1,h2 {
+    color: white;
+    background-color: black;
+}
+
+ul {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+
+img {
+    margin-bottom: 50px;
+}
+
+a {
+    color: #0000FF;
+}
+
+a:hover {
+    opacity: 70%;
+}
